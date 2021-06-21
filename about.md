@@ -2,9 +2,10 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Like tossing, engaged in front-end development, like ruby on rails.
 
 ### More Information
 
